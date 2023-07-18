@@ -14,3 +14,7 @@ h1.display-5{
 .nav-item:active{
     color: #fff;
 }
+
+#aboutHeading{
+    text-align: center;
+}
